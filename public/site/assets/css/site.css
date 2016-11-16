@@ -17,4 +17,50 @@
 
 .text-color-1{
     color: #1f1f1f;
+    font-weight: 800;
+}
+
+.linha-header-index{
+    border: 2px solid black;
+    width: 100px;
+}
+
+.text-title-description{
+    margin-top: 50px;
+    color: #8c8c8c;
+    margin-bottom: 50px;
+}
+
+.bg-section-index-menu{
+    background: url(../img/bg-1.jpg) no-repeat center;
+    background-size: 100% auto;
+    background-color: #ffffff;
+}
+
+.banner-menu{
+    height: 500px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+.banner-menu h3{
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.banner-menu img{
+    width: 150px;
+}
+
+.linha-header-index-menu{
+    border: 2px solid white;
+    width: 50px;
+}
+
+.linha-header-index-menu-prato{
+    margin-top: 120px;
+}
+
+.text-menu-index{
+    color: #8c8c8c;
 }
