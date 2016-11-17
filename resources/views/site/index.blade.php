@@ -75,7 +75,7 @@
                         <ul class="list-inline">
                             <li class="linha-header-index hidden-xs"></li>
                             <li class=""><h2 class="text-color-1">Culinária Japonesa</h2></li>
-                            <li class="linha-header-index"></li>
+                            <li class="linha-header-index hidden-sm hidden-md"></li>
                         </ul>
                     </div>
             </div>
@@ -95,25 +95,24 @@
     </section>
 
 
-    <section class="bg-section-index-menu banner-menu col-md-12 col-lg-12 col-sm-12 col-xs-12">
+    <section class="bg-section-index-menu">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <br><br>
                     <ul class="list-inline text-center">
                         <li class="linha-header-index-menu hidden-xs"></li>
-                        <li><h3>Destaques da Casa</h3></li>
-                        <li class="linha-header-index-menu"></li>
+                        <li><h3 class="banner-menu-h3">Destaques da Casa</h3></li>
+                        <li class="linha-header-index-menu hidden-sm"></li>
                     </ul>
                     <br>
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                     <img src="site/assets/img/destaque-1.png"
-                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
-                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+                         class="centered img-circle img-responsive banner-menu-img col-lg-6 col-md-3 col-xs-12 col-sm-6">
 
-                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                    <h3 class="banner-menu-h3 col-lg-12 col-sm-12 col-xs-12">
                         Bolinho Japonês
                     </h3>
 
@@ -121,53 +120,160 @@
                         Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
                     </h4>
 
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+                    <img src="site/assets/img/destaque-1.png"
+                         class="centered img-circle img-responsive banner-menu-img col-lg-6 col-md-3 col-xs-12 col-sm-6">
+
+                    <h3 class="banner-menu-h3 col-lg-12 col-sm-12 col-xs-12">
+                        Bolinho Japonês
+                    </h3>
+
+                    <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-menu-index">
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    </h4>
 
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                     <img src="site/assets/img/destaque-1.png"
-                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
-                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+                         class="centered img-circle img-responsive banner-menu-img col-lg-6 col-md-3 col-xs-12 col-sm-6">
 
-                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                    <h3 class="banner-menu-h3 col-lg-12 col-sm-12 col-xs-12">
                         Bolinho Japonês
                     </h3>
+
+                    <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-menu-index">
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    </h4>
 
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
                     <img src="site/assets/img/destaque-1.png"
-                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
-                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+                         class="centered img-circle img-responsive banner-menu-img col-lg-6 col-md-3 col-xs-12 col-sm-6">
 
-                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                    <h3 class="banner-menu-h3 col-lg-12 col-sm-12 col-xs-12">
                         Bolinho Japonês
                     </h3>
 
+                    <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-menu-index">
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    </h4>
 
                 </div>
 
-                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+            </div> <!-- div row -->
+        </div> <!-- div container -->
+    </section>
+
+    <section class="bg-section-index-horario">
+
+        <div class="container">
+            <div class="row">
+                <ul class="list-inline text-center">
+                    <li class="linha-header-index-menu-black hidden-xs hidden-sm"></li>
+                    <li><h3 class="banner-menu-h3-black">Horário de Funcionamento</h3></li>
+                    <li class="linha-header-index-menu-black hidden-xs hidden-sm"></li>
+                </ul>
+
+
+                <div class="jumbotron">
+                    <div class="text-left">Segunda a Sexta:</div>
+                    <div class="text-right jumbotron-content">18:00 ás 22:00h</div>
+                    <br>
+                    <div class="text-left">Sabado:</div>
+                    <div class="text-right jumbotron-content">11:00 ás 14:00h</div>
+                    <br>
+                    <div class="text-left">Sabado:</div>
+                    <div class="text-right jumbotron-content">18:00 ás 22:00h</div>
+                    <br>
+                </div> <!-- div jumbotron -->
+
+                <ul class="list-inline text-center">
+                    <li class="linha-header-index-menu-black hidden-xs hidden-sm"></li>
+                    <li><h3 class="banner-menu-h3-black">Horário de Delivery</h3></li>
+                    <li class="linha-header-index-menu-black hidden-xs hidden-sm"></li>
+                </ul>
+
+
+                <div class="jumbotron">
+                    <div class="text-left">Segunda a Sexta:</div>
+                    <div class="text-right jumbotron-content">18:00 ás 22:00h</div>
+                    <br>
+                </div> <!-- div jumbotron -->
+
+            </div> <!-- div row -->
+        </div> <!-- div container -->
+
+    </section>
+
+    <section class="bg-section-index-carousel">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <br><br>
+                    <ul class="list-inline text-center">
+                        <li class="linha-header-index-menu hidden-xs"></li>
+                        <li><h3 class="banner-menu-h3">Saiba mais sobre o prato</h3></li>
+                        <li class="linha-header-index-menu hidden-sm"></li>
+                    </ul>
+                    <br>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <img src="site/assets/img/destaque-1.png"
-                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
-                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+                         class="centered img-circle img-responsive carousel-img col-lg-offset-1">
 
-                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
-                        Bolinho Japonês
-                    </h3>
+                    <div class="carousel-text col-lg-offset-3 col-md-offset-3 col-sm-offset-3 col-xs-offset-3">
+                        <h4 class="banner-menu-h3 text-left ">Bolinho Japonês</h4>
+                        <h5 class="banner-menu-h3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab, dignissimos eligendi eveniet excepturi facilis,
+                        iusto natus necessitatibus obcaecati officia pariatur quae, quas rerum saepe soluta tenetur unde velit voluptatem?</h5>
+                    </div>
+               </div>
 
-                </div>
+            </div> <!-- div row -->
+        </div> <!-- div container -->
+    </section>
+
+    <section class="bg-section-index-footer">
+        <div class="container">
+            <div class="row">
 
             </div>
         </div>
     </section>
+
+    <div class="bg-footer">
+        <h5 class="banner-menu-h3 text-center">2016 &copy Kyodai</h5>
+    </div>
+
 </main>
 
-<footer><br><br><br><br></footer>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="site/assets/js/bootstrap.min.js"></script>
+
+<script>
+    $(function(){
+
+        $(window).on("scroll", function() {
+
+            if($(window).scrollTop() > 50) {
+                $(".topo").addClass("active-header");
+
+            } else {
+                //remove the background property so it comes transparent again (defined in your css)
+                $(".topo").removeClass("active-header");
+            }
+        });
+    });
+
+</script>
+
 </body>
 </html>
