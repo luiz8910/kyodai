@@ -103,6 +103,14 @@ Route::get('config-email', function(){
 
 //------------------------------------------  Site -------------------------------------------------------------------
 
-Route::get('/', 'DashboardController@indexSite');
+Route::get('/', 'SiteController@index');
+
+Route::get('quem-somos', ['as' => 'site.quem-somos', 'uses' => 'SiteController@quemSomos']);
+
+Route::get('localizacao', ['as' => 'site.localizacao', 'uses' => 'SiteController@localizacao']);
+
+Route::get('cardapio', ['as' => 'site.cardapio', 'uses' => 'SiteController@cardapio']);
+
+Route::get('contato', ['as' => 'site.contato', 'uses' => 'SiteController@contato']);
 
 Route::get('quemsomos', 'QuemSomosController@indexSite');

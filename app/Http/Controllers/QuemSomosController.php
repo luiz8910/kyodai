@@ -44,6 +44,11 @@ class QuemSomosController extends Controller
         return view("site.quem-somos", compact("quemSomos"));
     }
 
+    public function home()
+    {
+        return view('site.quemSomos');
+    }
+
     /**
      * Show the form for creating a new resource.
      *

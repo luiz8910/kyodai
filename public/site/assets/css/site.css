@@ -1,12 +1,20 @@
+.borda{
+    border: 1px solid blue;
+}
+
 .topo{
     /*background-color: #990000;*/
     opacity: 0.5;
 }
 
 .bg-section-header-site{
-    background: url(../img/comida-japonesa.jpg) no-repeat center;
+    background: url(../img/home/comida-japonesa.jpg) no-repeat center;
     background-size: 100% auto;
     background-color: #FFFFFF;
+}
+
+.active-header {
+    opacity: 1;
 }
 
 .header-size-site{
@@ -31,25 +39,29 @@
     margin-bottom: 50px;
 }
 
-.bg-section-index-menu{
-    background: url(../img/bg-1.jpg) no-repeat center;
-    background-size: 100% auto;
-    background-color: #ffffff;
-}
-
-.banner-menu{
-    height: 500px;
-    margin-top: -20px;
+.text-title-description-black {
+    margin-top: 50px;
+    color: #1f1f1f;
     margin-bottom: 50px;
 }
 
-.banner-menu h3{
+.bg-section-index-menu{
+    background-image: url(../img/home/bg-1.jpg);
+    padding: 15px 0 40px 0;
+}
+
+.banner-menu-h3{
     font-weight: 500;
     color: #ffffff;
 }
 
-.banner-menu img{
-    width: 150px;
+.banner-menu-h3-black{
+    font-weight: 500;
+    color: black;
+}
+
+.banner-menu-img{
+    width: 200px;
 }
 
 .linha-header-index-menu{
@@ -57,10 +69,67 @@
     width: 50px;
 }
 
-.linha-header-index-menu-prato{
-    margin-top: 120px;
+.linha-header-index-menu-black{
+    border: 2px solid black;
+    width: 50px;
 }
 
 .text-menu-index{
-    color: #8c8c8c;
+    color: rgb(224, 204, 188);
 }
+
+.bg-section-index-horario{
+    background-image: url(../img/home/bg-relogio.png);
+    background-size: cover;
+    padding: 15px 0 40px 0;
+    width: 100%;
+    height: 100%;
+    margin-top: 50px;
+}
+
+.jumbotron-content{
+    margin-top: -20px;
+}
+
+.bg-section-index-carousel{
+    background-image: url(../img/home/fish-background-retangulo-60.png);
+    background-size: cover;
+    padding: 15px 0 40px 0;
+    width: 100%;
+    height: 80%;
+    margin-top: 50px;
+}
+
+.carousel-img{
+    width: 150px;
+}
+
+.carousel-text{
+    margin-top: -130px;
+}
+
+.bg-section-index-footer{
+    background-image: url(../img/home/rodape.png);
+    background-size: cover;
+    width: 100%;
+    height: 80%;
+}
+
+.bg-footer{
+    background-color: rgb(96, 0, 28);
+    width: 100%;
+}
+
+/*Background quem somos*/
+.bg-qs{
+    background-image: url(../img/quem-somos/bg-japan.png);
+    background-size: cover;
+    width: 100%;
+    height: 110%;
+}
+
+/*Margin-top tópico*/
+.mg-topico{
+    margin-top: 20px;
+}
+
