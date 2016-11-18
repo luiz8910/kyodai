@@ -72,13 +72,98 @@
             <div class="row text-center">
                 <div class="divisor-default"></div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <h2 class="text-color-1">Culinária Japonesa</h2>
+                        <ul class="list-inline">
+                            <li class="linha-header-index hidden-xs"></li>
+                            <li class=""><h2 class="text-color-1">Culinária Japonesa</h2></li>
+                            <li class="linha-header-index"></li>
+                        </ul>
                     </div>
+            </div>
+
+            <div class="row text-center text-title-description">
+                <h4>Bem Vindo ao Kyodai - Sorocaba</h4>
+            </div>
+
+            <div class="row text-center text-title-description">
+                <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                </h4>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="bg-section-index-menu banner-menu col-md-12 col-lg-12 col-sm-12 col-xs-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <br><br>
+                    <ul class="list-inline text-center">
+                        <li class="linha-header-index-menu hidden-xs"></li>
+                        <li><h3>Destaques da Casa</h3></li>
+                        <li class="linha-header-index-menu"></li>
+                    </ul>
+                    <br>
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+                    <img src="site/assets/img/destaque-1.png"
+                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
+                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+
+                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                        Bolinho Japonês
+                    </h3>
+
+                    <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-menu-index">
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    </h4>
+
+
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+                    <img src="site/assets/img/destaque-1.png"
+                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
+                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+
+                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                        Bolinho Japonês
+                    </h3>
+
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+                    <img src="site/assets/img/destaque-1.png"
+                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
+                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+
+                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                        Bolinho Japonês
+                    </h3>
+
+
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-xs-12 col-sm-6">
+                    <img src="site/assets/img/destaque-1.png"
+                         class="col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1
+                         col-lg-3 col-md-3 col-xs-6 col-sm-6">
+
+                    <h3 class="linha-header-index-menu-prato col-lg-offset-1 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
+                        Bolinho Japonês
+                    </h3>
+
+                </div>
 
             </div>
         </div>
     </section>
 </main>
+
+<footer><br><br><br><br></footer>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
