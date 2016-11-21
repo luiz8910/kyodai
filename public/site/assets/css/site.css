@@ -133,3 +133,22 @@
     margin-top: 20px;
 }
 
+/*Comprimento e largura da imagem do cardápio*/
+
+.img-cardapio-width-height{
+    width: 100%;
+    height: 100px;
+}
+
+/*Texto dentro da imagem*/
+.text-img-cardapio{
+    font-size: 100px !important;
+    margin-top: -100px;
+    margin-bottom: 60px;
+}
+
+.item-text-cardapio{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
