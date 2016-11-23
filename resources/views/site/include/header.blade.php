@@ -35,7 +35,7 @@
                         <a href="{{ route('site.localizacao') }}">Localização</a>
                     </li>
                     <li id="link-contato" class="@if($_SERVER['REQUEST_URI'] == '/contato'){{'active'}}@endif">
-                        <a href="{{ route('site.contato') }}">Quem Somos</a>
+                        <a href="{{ route('site.contato') }}">Contato</a>
                     </li>
                 </ul>
             </div> <!-- collapse navbar-collapse -->

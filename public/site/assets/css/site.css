@@ -152,3 +152,12 @@
     margin-top: 20px;
 }
 
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.localizacao-horario-margin{
+    margin-top: -30px;
+}
+
