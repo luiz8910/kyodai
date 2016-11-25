@@ -49,7 +49,7 @@
                 <h4 class="text-right localizacao-horario-margin">Delivery</h4><br>
                 <h4 class="text-right localizacao-horario-margin">Segunda a Sábado: 19:00h as 22:30h</h4><br>
             </div>
-            
+
         </div>
     </section>
 

@@ -161,3 +161,34 @@
     margin-top: -30px;
 }
 
+.bg-section-contato{
+    background-image: url(../img/contato/bg-flores.png);
+    background-size: cover;
+    height: 150%;
+}
+
+.input-pink{
+    background-color: rgb(119, 0, 37);
+}
+
+.form{
+    margin-top: 300px;
+}
+
+.label-contato{
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+
+#nome{
+    color: white !important;
+}
+
+input, textarea{
+    opacity: 0.5;
+    color: black;
+}
+
+
+

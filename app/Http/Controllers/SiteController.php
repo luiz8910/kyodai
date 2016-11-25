@@ -2,6 +2,7 @@
 
 namespace admin\Http\Controllers;
 
+use Admin\Models\Contato;
 use Illuminate\Http\Request;
 
 use admin\Http\Requests;
@@ -37,6 +38,13 @@ class SiteController extends Controller
     public function contato()
     {
         return view('site.contato');
+    }
+
+    public function gravarContato(Request $request)
+    {
+        Contato::create($request->all());
+
+        return view('site.index');
     }
 
 }
