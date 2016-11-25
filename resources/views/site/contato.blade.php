@@ -62,14 +62,19 @@
 
                 <div class="form-group">
                     <div class="input-pink label-contato">Mensagem *</div>
-                    <textarea class="form-control" name="mensagem"></textarea>
+                    <textarea class="form-control" rows="10" name="mensagem"></textarea>
                 </div>
+
+                <br><br>
+                {!! Form::submit('Salvar', ['class' => 'btn btn-lg input-pink right button']) !!}
 
                 {!! Form::close() !!}
             </div>
         </div>
 
     </section>
+
+    @include('site.include.footer')
 </main>
 </body>
 </html>

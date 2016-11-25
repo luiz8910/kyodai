@@ -190,5 +190,13 @@ input, textarea{
     color: black;
 }
 
+.right{
+    float: right;
+    color: white !important;
+}
+
+.button{
+    width: 400px;
+}
 
 
