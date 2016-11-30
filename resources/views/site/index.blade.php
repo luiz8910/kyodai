@@ -17,14 +17,14 @@
 @include('site.include.header')
 
 <main>
-    <section class="bg-section-header-site header-size-site col-md-12 col-lg-12">
+    <section class="bg-section-header-site header-size-site col-md-12 col-lg-12 section-padding">
         <div class="container">
             <div class="row">
             </div>
         </div>
     </section> <!-- bg-section-header-site header-size-site -->
 
-    <section>
+    <section class="section-padding">
         <div class="container">
             <div class="row text-center">
                 <div class="divisor-default"></div>
@@ -51,8 +51,60 @@
         </div>
     </section>
 
+    <section class="bg-tripadvisor section-padding">
 
-    <section class="bg-section-index-menu">
+        <div class="container col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <br><br>
+                <ul class="list-inline text-center">
+                    <li class="linha-header-index-menu hidden-xs"></li>
+                    <li><h3 class="banner-menu-h3">Avaliações no TripAdvisor</h3></li>
+                    <li class="linha-header-index-menu hidden-sm"></li>
+                </ul>
+                <br><br>
+            </div>
+
+            <div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div id="TA_selfserveprop896" class="TA_selfserveprop box-tripadvisor-avaliacoes">
+                    <ul id="YJDAhtiY" class="TA_links izOJEYcK">
+                        <li id="RFYUIh6dPUM" class="Yq6114VgptCQ">
+                            <a target="_blank" href="https://www.tripadvisor.com.br/">
+                                <img src="https://www.tripadvisor.com.br/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=896&amp;locationId=4525168&amp;lang=pt&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=true&amp;display_version=2"></script>
+
+
+                <div id="TA_certificateOfExcellence424" class="TA_certificateOfExcellence box-tripadvisor">
+                    <ul id="TVvDp0089djC" class="TA_links gQLf98KHM5V">
+                        <li id="0FMJeV" class="PtD8o6KKRN">
+                            <a target="_blank" href="https://www.tripadvisor.com.br/Restaurant_Review-g303632-d4525168-Reviews-Restaurante_Japones_Kyodai-Sorocaba_State_of_Sao_Paulo.html">
+                                <img src="https://www.tripadvisor.com.br/img/cdsi/img2/awards/CoE2016_WidgetAsset-14348-2.png" alt="TripAdvisor" class="widCOEImg" id="CDSWIDCOELOGO"/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=424&amp;locationId=4525168&amp;lang=pt&amp;year=2016&amp;display_version=2">
+                </script>
+
+                <div id="TA_restaurantWidgetGreen202" class="TA_restaurantWidgetGreen box-tripadvisor-recomendacoes">
+                    <ul id="IqIFIIXNE" class="TA_links fxBtMQBa">
+                        <li id="z6tXRxihUGk" class="5Sh4t8">
+                            <a target="_blank" href="https://www.tripadvisor.com.br/"><img src="https://www.tripadvisor.com.br/img/cdsi/partner/tripadvisor_logo_117x18-24177-2.png" alt="TripAdvisor"/></a>
+                        </li>
+                    </ul>
+                </div>
+                <script src="https://www.jscache.com/wejs?wtype=restaurantWidgetGreen&amp;uniq=202&amp;locationId=4525168&amp;icon=knifeAndFork&amp;lang=pt&amp;display_version=2"></script>
+
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="bg-section-index-menu section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -125,7 +177,7 @@
         </div> <!-- div container -->
     </section>
 
-    <section class="bg-section-index-horario">
+    <section class="bg-section-index-horario section-padding">
 
         <div class="container">
             <div class="row">
@@ -166,7 +218,7 @@
 
     </section>
 
-    <section class="bg-section-index-carousel">
+    <section class="bg-section-index-carousel section-padding">
         <div class="container">
             <div class="row">
 
