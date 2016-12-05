@@ -55,7 +55,22 @@
 
 .bg-section-index-menu{
     background-image: url(../img/home/bg-1.jpg);
-    padding: 15px 0 40px 0;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    bottom: 0 !important;
+    color: black !important;
+    left: 0 !important;
+    overflow: none !important;
+    /* padding: 0em !important; */
+    position: relative !important;
+    right: 0 !important;
+    text-align: center !important;
+    top: 0 !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    clear: both;
+}
 }
 
 .banner-menu-h3{
@@ -88,27 +103,22 @@
 
 .bg-section-index-horario{
     background-image: url(../img/home/bg-relogio.png) !important;
-    background-size: cover;
-    padding: 0px 0 40px 0;
-    /*width: 100%;*/
-    /*height: 100%;*/
-    /*margin-top: 50px;*/
 
-    /*background-repeat: no-repeat !important;*/
-    /*background-size: cover !important;*/
-    /*bottom: 0 !important;*/
-    /*color: black !important;*/
-    /*left: 0 !important;*/
-    /*overflow: none !important;*/
-    /*!* padding: 0em !important; *!*/
-    /*position:relative !important;*/
-    /*right: 0 !important;*/
-    /*text-align: center !important;*/
-    /*top: 0 !important;*/
-    /*background-repeat: no-repeat !important;*/
-    /*background-position: center !important;*/
-    /*background-size: cover !important;*/
-    /*clear: both;*/
+ background-repeat: no-repeat !important;
+    background-size: cover !important;
+    bottom: 0 !important;
+    color: black !important;
+    left: 0 !important;
+    overflow: none !important;
+    !* padding: 0em !important; *!
+    position:relative !important;
+    right: 0 !important;
+    text-align: center !important;
+    top: 0 !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    clear: both;
 }
 
 .jumbotron-content{
@@ -117,11 +127,21 @@
 
 .bg-section-index-carousel{
     background-image: url(../img/home/fish-background-retangulo-60.png);
-    background-size: cover;
-    padding: 15px 0 40px 0;
-    width: 100%;
-    height: 80%;
-    margin-top: 50px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    bottom: 0 !important;
+    color: black !important;
+    left: 0 !important;
+    overflow: none !important;
+    !* padding: 0em !important; *!
+    position:relative !important;
+    right: 0 !important;
+    text-align: center !important;
+    top: 0 !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    clear: both;
 }
 
 .carousel-img{
@@ -134,9 +154,22 @@
 
 .bg-section-index-footer{
     background-image: url(../img/home/rodape.png);
-    background-size: cover;
-    width: 100%;
-    height: 80%;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    bottom: 0 !important;
+    color: black !important;
+    left: 0 !important;
+    overflow: none !important;
+    !* padding: 0em !important; *!
+    position:relative !important;
+    right: 0 !important;
+    text-align: center !important;
+    top: 0 !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    clear: both;
+        height: 450px;
 }
 
 .bg-footer{
@@ -233,8 +266,8 @@ input, textarea{
 }
 
 .box-tripadvisor{
-    margin-top: -459px;
-    margin-left: 700px;
+    /* margin-top: 0px; */
+    margin-left: 180px;
 }
 
 .box-tripadvisor-avaliacoes{
@@ -242,7 +275,22 @@ input, textarea{
 }
 
 .box-tripadvisor-recomendacoes{
-    margin-left: 711px;
-    margin-top: 263px;
+    margin-left:10px;
+    margin-top: 10px;
 }
 
+
+.linha-1 {
+    position: relative;
+    top: -14px !important;
+}
+
+.ajuste-box-cardapio {
+    padding-top: 10px;
+    padding-bottom: 60px !important;
+}
+
+.img-cardapio-ajuste {
+    width: 150px;
+    height: 150px;
+}

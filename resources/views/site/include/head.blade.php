@@ -17,6 +17,8 @@
     <!-- Bootstrap -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="site/assets/css/site.css" rel="stylesheet">
+    <link href="site/assets/css/style.css" rel="stylesheet">
+    <link href="site/assets/css/collor.css" rel="stylesheet">
     <link href="site/assets/fonts/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
