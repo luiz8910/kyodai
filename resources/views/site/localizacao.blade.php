@@ -16,45 +16,41 @@
 
 <main>
 
-    <section class="bg-section-header-site header-size-site col-md-12 col-lg-12">
+    <section class="bg-section-header-site header-size-site section-padding">
         <div class="container">
             <div class="row">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"></div>
             </div>
         </div>
     </section> <!-- bg-section-header-site header-size-site -->
 
-    <section>
+    <section class="section-padding">
         <div class="container">
-            <div class="row text-center">
-                <div class="divisor-default"></div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <ul class="list-inline">
-                        <li class="linha-header-index hidden-xs"></li>
-                        <li class=""><h2 class="text-color-1">Fale Conosco</h2></li>
-                        <li class="linha-header-index hidden-sm hidden-md"></li>
-                    </ul>
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="text-center "><i class="linha-1">_____</i> Fale Conosco <i class="linha-1">_____</i></h2><br>
                 </div>
             </div>
-
             <div class="row text-title-description">
-                <h4>Telefone: 3232 5039</h4>
-                <h4 class="text-right localizacao-horario-margin">Horário de Funcionamento</h4><br>
-
-                <h4>Rua Dr. Artur Martins, 41, Sorocaba - SP</h4>
-                <h4 class="text-right localizacao-horario-margin">Segunda a Sexta: 18:00h as 23:00h</h4><br>
-                <h4 class="text-right localizacao-horario-margin">Sábado: 18:00h as 23:00h</h4><br>
-
-                <h4>contato@kyodai.com.br</h4>
-
-                <h4 class="text-right localizacao-horario-margin">Delivery</h4><br>
-                <h4 class="text-right localizacao-horario-margin">Segunda a Sábado: 19:00h as 22:30h</h4><br>
+                <div class="col-md-6 col-sm-16 col-xs-6">
+                    <h4>Telefone: 3232 5039</h4>
+                    <h4>Rua Dr. Artur Martins, 41, Sorocaba - SP</h4>
+                    <h4>contato@kyodai.com.br</h4>
+                </div>
+                
+                <div class="col-md-6 col-sm-16 col-xs-6">
+                    <h4 class="text-right "><u>Horário de Funcionamento</u></h4>
+                    <h4 class="text-right">Segunda a Sexta: 18:00h as 23:00h</h4>
+                    <h4 class="text-right">Sábado: 18:00h as 23:00h</h4>
+                    <h4 class="text-right"><u>Delivery</u></h4>
+                    <h4 class="text-right">Segunda a Sábado: 19:00h as 22:30h</h4>
+                </div>
             </div>
-
         </div>
     </section>
 
     <section>
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
                 <div id="map"></div>
                 <script>
