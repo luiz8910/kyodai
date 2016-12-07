@@ -17,25 +17,21 @@
 @include('site.include.header')
 
 <main>
-    <section class="bg-section-header-site header-size-site col-md-12 col-lg-12 section-padding">
+    <section class="bg-section-header-site header-size-site section-padding">
         <div class="container">
             <div class="row">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"></div>
             </div>
         </div>
     </section> <!-- bg-section-header-site header-size-site -->
 
     <section class="section-padding">
-        <div class="container">
-            <div class="row text-center">
-                <div class="divisor-default"></div>
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <ul class="list-inline">
-                            <li class=""><h1><div style="height: 10px !important; margin-top: -45px !important; display: block !important; position: absolute !important; left: 310px;">_____</div></h1></li>
-                            <li class=""><h2 class="text-color-1" style="">Culinária Japonesa </h2></li>
-                            <li class=""><h1><div style="height: 10px !important; margin-top: -45px !important; display: block !important; position: absolute !important; ">_____</div></h1></li>
-                        </ul>
-                    </div>
-            </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="text-center "><i class="linha-1">_____</i> Tripadvisor  <i class="linha-1">_____</i></h2><br>
+                </div>
+            </div> 
             <div class="row ">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-center text-title-description">
                     <h4>Bem Vindo ao Kyodai - Sorocaba</h4><br>
@@ -51,16 +47,11 @@
 
     <section class="bg-tripadvisor section-padding">
         <div class="container">
-           <div class="row text-center">
-                <div class="divisor-default"></div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <ul class="list-inline">
-                        <li class="banner-menu-h3"><h1><div style="height: 10px !important; margin-top: -45px !important; display: block !important; position: absolute !important; left: 299px;">_____</div></h1></li>
-                        <li class=""><h2 class="banner-menu-h3" style="">Avaliações no TripAdvisor</h2></li>
-                        <li class="banner-menu-h3"><h1><div style="height: 10px !important; margin-top: -45px !important; display: block !important; position: absolute !important; ">_____</div></h1></li>
-                    </ul>
+           <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="text-center "><i class="linha-1">_____</i> Culinária Japonesa <i class="linha-1">_____</i></h2><br>
                 </div>
-            </div><br><br><br>
+            </div><br><br>
 
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
