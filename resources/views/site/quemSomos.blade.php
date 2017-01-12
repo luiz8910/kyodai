@@ -59,7 +59,7 @@
                 <div class="row">
 
                     <ul class="list-inline text-center mg-topico">
-                        <li class="linha-header-index hidden-xs"></li>
+                        <li class="linha-header-index hidden-sm hidden-md"></li>
                         <li class=""><h2 class="text-color-1">Tradição</h2></li>
                         <li class="linha-header-index hidden-sm hidden-md"></li>
                     </ul>

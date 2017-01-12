@@ -20,7 +20,7 @@
                     <ul class="list-inline">
                         <li class="linha-header-index hidden-xs"></li>
                         <li class=""><h2 class="text-color-1">Fale Conosco</h2></li>
-                        <li class="linha-header-index hidden-sm hidden-md"></li>
+                        <li class="linha-header-index hidden-sm hidden-xs"></li>
                     </ul>
                 </div>
             </div>
@@ -63,6 +63,10 @@
                 <div class="form-group">
                     <div class="input-pink label-contato">Mensagem *</div>
                     <textarea class="form-control" name="mensagem"></textarea>
+                </div>
+
+                <div class="form-group">
+                    {!! Form::submit('Enviar', ['class' => 'btn form-control input-pink', 'style' => 'color:white;']) !!}
                 </div>
 
                 {!! Form::close() !!}

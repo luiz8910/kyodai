@@ -55,7 +55,7 @@
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingOne">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
@@ -107,7 +107,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Porções</h4></li>
+                        </ul>
+                    </div>
 
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -115,7 +139,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingTwo">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"
@@ -167,6 +191,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Sopas</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -174,7 +223,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingThree">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"
@@ -226,6 +275,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Hossomaki</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -233,7 +307,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingFour">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"
@@ -285,6 +359,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Urumaki</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -292,7 +391,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingFive">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"
@@ -344,6 +443,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Temaki</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -351,7 +475,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingSix">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"
@@ -403,6 +527,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Teishoku</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -410,7 +559,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingSeven">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"
@@ -462,6 +611,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Nigiri</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -469,7 +643,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingEight">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight"
@@ -520,7 +694,32 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Teppanyaki Teshoku</h4></li>
+                        </ul>
+                    </div>
 
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>
@@ -528,7 +727,7 @@
 
             <div class="container">
                 <div class="row text-center">
-                    <div class="panel">
+                    <div class="panel visible-md visible-lg">
                         <div class="panel-heading" role="tab" id="headingNine">
                             <h4 class="panel-title">
                                 <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine"
@@ -580,6 +779,31 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
+                        <ul class="list-inline">
+                            <li class=""><h4 class="text-color-1">Pratos Diversos</h4></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Mignom</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Tofu</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                    </div>
                 </div>
 
             </div>

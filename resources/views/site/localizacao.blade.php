@@ -59,6 +59,8 @@
                 <div id="map"></div>
                 <script>
                     function initMap() {
+                        var infowindow = new google.maps.InfoWindow();
+
                         var uluru = {
                             lat: -23.502412,
                             lng: -47.458376
@@ -72,6 +74,15 @@
                             position: uluru,
                             map: map
                         });
+
+                        google.maps.event.addListener(map, 'mouseover', (function(marker) {
+                            return function() {
+                                infowindow.setContent('Kyodai');
+                                infowindow.open(map, marker);
+                            }
+                        })(marker));
+
+
                     }
                 </script>
                 <script async defer
