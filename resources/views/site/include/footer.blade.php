@@ -15,6 +15,11 @@
     </div>
 </section>
 
-<div class="bg-footer">
-    <h5 class="banner-menu-h3 text-center">2016 &copy Kyodai</h5>
-</div>
+<section class="bg-footer">
+    <div class="container">
+        <div class="row">
+            <p class="text-color-white text-center">© <?php echo date("Y");?>. Restaurante Japonês Kyodai - Sorocaba. Todos os Direitos Reservados.</p>
+        </div>
+    </div>
+</section>
+

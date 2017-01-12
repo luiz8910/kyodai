@@ -60,7 +60,8 @@
 }
 
 .bg-footer{
-    background-color: #171717;
+    background-color: #770025;
+    padding: 8px 0px 2px 0px;
 }
 
 .bg-footer-termos{
@@ -75,6 +76,6 @@
 .bg-section-newsletter{
     background-color: #0084b4;
     padding: 30px 0px 30px 0px;
-    
+
 }
 

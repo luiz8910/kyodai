@@ -5,75 +5,75 @@
 @include('site.include.header')
 
 <main>
-    <section class="bg-section-header-site header-size-site col-md-12 col-lg-12">
+    <section class="bg-section-header-site header-size-site  section-padding">
         <div class="container">
             <div class="row">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12"></div>
             </div>
         </div>
     </section> <!-- bg-section-header-site header-size-site -->
 
-    <section>
+    <section class="section-padding">
         <div class="container">
-            <div class="row text-center">
-                <div class="divisor-default"></div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <ul class="list-inline">
-                        <li class="linha-header-index hidden-xs"></li>
-                        <li class=""><h2 class="text-color-1">Fale Conosco</h2></li>
-                        <li class="linha-header-index hidden-sm hidden-xs"></li>
-                    </ul>
+
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                    <h2 class="text-center "><i class="linha-1">_____</i> Fale Conosco <i class="linha-1">_____</i></h2><br>
                 </div>
-            </div>
+            </div><br>
+            <div class="row ">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 text-center text-title-description">
+                    <p class="">
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                        Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
+                    </p>
+                </div>
+            </div> <!-- ./ row -->
+        </div>
+    </section>
+    <!-- <div class="clearfix">...</div> -->
+    <section class="bg-section-contato section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                    {!! Form::open(['route' => 'site.contato.store', 'method' => 'POST']) !!}
+                    
+                    <form class="form-horizontal">
+                        <div class="input-group">
+                            <span class="input-group-addon input-pink" id="basic-addon1">Nome *</span>
+                            <input type="text" class="form-control"  aria-describedby="basic-addon1">
+                        </div><br><br>
+                        
+                        <div class="input-group">
+                            <span class="input-group-addon input-pink" id="basic-addon1">Email *</span>
+                            <input type="email" class="form-control"  aria-describedby="basic-addon1">
+                        </div><br><br>
+                        
+                        <div class="input-group">
+                            <span class="input-group-addon input-pink" id="basic-addon1">Assunto *</span>
+                            <input type="text" class="form-control" aria-describedby="basic-addon1">
+                        </div><br><br>
+                        
+                        <div class="input-group">
+                            <span class="input-group-addon input-pink" id="basic-addon1">Mensagem *</span>
+                            <textarea class="form-control" rows="3"></textarea>
+                        </div><br>
 
-            <div class="row text-center text-title-description">
-                <h4>Bem Vindo ao Kyodai - Sorocaba</h4>
-            </div>
+                    </form>
+                  
 
-            <div class="row text-center text-title-description">
-                <h4 class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
-                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
-                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
-                    Fundado em 1993, o Kyodai Sorocaba é o primeiro restaurante japonês tradicional de sorocaba
-                </h4>
+                    <br><br>
+                    {!! Form::submit('Enviar', ['class' => 'btn btn-lg input-pink right button']) !!}
+
+                    {!! Form::close() !!}
+                </div>
+
             </div>
         </div>
     </section>
 
-    <section class="bg-section-contato">
-
-        <div class="container">
-            <div class="row form text-center">
-                {!! Form::open(['route' => 'site.contato.store', 'method' => 'POST']) !!}
-
-                <div class="form-group">
-                    <div class="label-contato input-pink">Nome *</div>
-                    <input type="text" name="nome" id="nome" required class="input-pink form-control">
-                </div>
-
-                <div class="form-group">
-                    <div class="label-contato input-pink">Email *</div>
-                    <input type="text" name="email" id="email" required class=" form-control">
-                </div>
-
-                <div class="form-group">
-                    <div class="label-contato input-pink">Assunto *</div>
-                    <input type="text" name="assunto" id="assunto" required class=" form-control">
-                </div>
-
-                <div class="form-group">
-                    <div class="input-pink label-contato">Mensagem *</div>
-                    <textarea class="form-control" name="mensagem"></textarea>
-                </div>
-
-                <div class="form-group">
-                    {!! Form::submit('Enviar', ['class' => 'btn form-control input-pink', 'style' => 'color:white;']) !!}
-                </div>
-
-                {!! Form::close() !!}
-            </div>
-        </div>
-
-    </section>
+    @include('site.include.footer')
 </main>
 </body>
 </html>
