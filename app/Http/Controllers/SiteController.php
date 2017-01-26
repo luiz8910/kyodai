@@ -2,11 +2,12 @@
 
 namespace admin\Http\Controllers;
 
-use Admin\Models\Contato;
+use admin\Models\Contato;
 use Illuminate\Http\Request;
 
 use admin\Http\Requests;
 use admin\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Session;
 
 class SiteController extends Controller
 {
@@ -44,7 +45,9 @@ class SiteController extends Controller
     {
         Contato::create($request->all());
 
-        return view('site.index');
+        Session::flash('enviar.contato', 'Contato enviado com sucesso');
+
+        return redirect()->route('site.contato');
     }
 
 }

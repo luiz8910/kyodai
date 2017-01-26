@@ -53,22 +53,36 @@
                 </div>
             </div><br><br>
 
+
             <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div id="TA_selfserveprop896" class="TA_selfserveprop box-tripadvisor-avaliacoes col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <ul id="YJDAhtiY" class="TA_links izOJEYcK">
-                            <li id="RFYUIh6dPUM" class="Yq6114VgptCQ">
-                                <a target="_blank" href="https://www.tripadvisor.com.br/">
-                                    <img src="https://www.tripadvisor.com.br/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/>
-                                </a>
+                <div class="col-sm-6 visible-xs">
+                    <div id="TA_cdsscrollingravenarrow811" class="TA_cdsscrollingravenarrow">
+                        <ul id="8qWMA27" class="TA_links 5i7Ew4jot">
+                            <li id="NaBaNfYh" class="Ox9mV2Vkuan">
+                                <a target="_blank" href="https://www.tripadvisor.com.br/"><img src="https://static.tacdn.com/img2/t4b/Stacked_TA_logo.png" alt="TripAdvisor" class="widEXCIMG" id="CDSWIDEXCLOGO"/></a>
                             </li>
                         </ul>
                     </div>
-                    <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=896&amp;locationId=4525168&amp;lang=pt&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=true&amp;display_version=2"></script>
+                    <script src="https://www.jscache.com/wejs?wtype=cdsscrollingravenarrow&amp;uniq=811&amp;locationId=4525168&amp;lang=pt&amp;border=true&amp;display_version=2"></script>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-xs">
+                    <div class="text-center">
+                        <div id="TA_selfserveprop896" class="TA_selfserveprop box-tripadvisor-avaliacoes col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <ul id="YJDAhtiY" class="TA_links izOJEYcK">
+                                <li id="RFYUIh6dPUM" class="Yq6114VgptCQ">
+                                    <a target="_blank" href="https://www.tripadvisor.com.br/">
+                                        <img src="https://www.tripadvisor.com.br/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=896&amp;locationId=4525168&amp;lang=pt&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=true&amp;display_version=2"></script>
+                    </div>
                 </div> <!-- ./ col-lg-6 col-md-6 col-sm-12 col-xs-12 -->
 
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-xs hidden-sm">
-                    <div id="TA_certificateOfExcellence424" class="TA_certificateOfExcellence box-tripadvisor">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                    <div id="TA_certificateOfExcellence424" class="TA_certificateOfExcellence box-tripadvisor" style="margin-left: 50px;">
                         <ul id="TVvDp0089djC" class="TA_links gQLf98KHM5V">
                             <li id="0FMJeV" class="PtD8o6KKRN">
                                 <a target="_blank" href="https://www.tripadvisor.com.br/Restaurant_Review-g303632-d4525168-Reviews-Restaurante_Japones_Kyodai-Sorocaba_State_of_Sao_Paulo.html">

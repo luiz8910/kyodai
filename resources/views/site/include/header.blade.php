@@ -18,7 +18,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Kyodai</a>
+                <a class="navbar-brand" href="{{ url('/') }}">
+                    <img src="site/assets/img/logo-2.png" alt="" style="width: 100px;">
+                </a>
             </div> <!--navbar-header-->
 
 

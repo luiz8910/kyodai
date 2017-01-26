@@ -113,6 +113,6 @@ Route::get('cardapio', ['as' => 'site.cardapio', 'uses' => 'SiteController@carda
 
 Route::get('contato', ['as' => 'site.contato', 'uses' => 'SiteController@contato']);
 
-Route::get('contato-salvar', ['as' => 'site.contato.store', 'uses' => 'SiteController@gravarContato']);
+Route::post('contato-salvar', ['as' => 'site.contato.store', 'uses' => 'SiteController@gravarContato']);
 
 Route::get('quemsomos', 'QuemSomosController@indexSite');

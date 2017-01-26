@@ -14,4 +14,6 @@ class Contato extends Model implements Transformable
         'nome', 'email', 'assunto', 'mensagem'
     ];
 
+    protected $table = 'contatos';
+
 }
