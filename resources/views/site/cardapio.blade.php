@@ -66,7 +66,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Porções</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Porções</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -82,6 +82,10 @@
                                         <li class=""><h4 class="text-color-1">Porções</h4></li>
                                         <li class="linha-header-index hidden-sm hidden-md"></li>
                                     </ul>
+
+                                    <ul class="list-inline text-center">
+                                        <li class=""><h5 class="text-color-1">Cogumelo</h5></li>
+                                    </ul>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
@@ -89,7 +93,11 @@
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shitaki com Lula</p>
+                                    <p class="item-text-cardapio">Shitake com Lula</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Shitake com Shimeji</p>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
@@ -101,7 +109,104 @@
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Shimeji ou Shitake</p>
+                                </div>
+
+
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Ika</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Lula na Manteiga</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Lula Empanada</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Isca de Lula</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Tempura Ebi 10 un.</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Tempura <span style="font-size: 10px;">16 legumes e 3 camarões</span></p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Isca de Peixe Branco</p>
+                                </div>
+
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Harumaki - Rolinho Primavera</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Frango</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Queijo</p>
+                                </div>
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Gyoza</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Pernil ou Frango - 6 unidades</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Nassu com Misso ou Alho</p>
+                                    <h6>Beringela com Misso ou Shoyu com Alho</h6>
+                                </div>
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Salmão Hot Roll</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Com Cream Cheese</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Com Kani</p>
+                                </div>
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Outras Porções</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Hiyayako</p>
+                                    <h6>Tofu com shoga e cebolinha</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Gohan(Arroz)</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Missoshiru (Sopa de Soja)</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Conserva</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Gari - Gengibre em Conserva</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Nimono</p>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +223,15 @@
                     </div>
 
                     <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
-                        <p class="item-text-cardapio">Shitaki com Lula</p>
+                        <p class="item-text-cardapio">Shitake com Lula</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitake com Shimeji</p>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
+                        <p class="item-text-cardapio">Shitake com Mignom</p>
                     </div>
 
                     <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
@@ -130,7 +243,7 @@
                     </div>
 
                     <div class="col-sm-6 col-xs-6 visible-xs visible-sm">
-                        <p class="item-text-cardapio">Shimeji com Lula</p>
+                        <p class="item-text-cardapio">Shimeji ou Shitake</p>
                     </div>
                 </div>
 
@@ -150,7 +263,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Sopas</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Sopas</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -168,24 +281,70 @@
                                     </ul>
                                 </div>
 
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Udon</h5></li>
+                                </ul>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Udon Especial</p>
+                                    <h6>frango, shitake, ovo, milanesa e kamaboku</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shitaki com Lula</p>
+                                    <p class="item-text-cardapio">Gyukatsu Udon</p>
+                                    <h6>filé mignon à milanesa</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Mignom</p>
+                                    <p class="item-text-cardapio">Tempurá Udon</p>
+                                    <h6>Legumes e camarão empanado</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Tofu</p>
+                                    <p class="item-text-cardapio">Kare Udon</p>
+                                    <h6>pernil e legumes ao curry</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Tonkatsu Udon</p>
+                                    <h6>Lombo à milanesa</h6>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Tsukimi Udon</p>
+                                    <h6>Frango, shitake, omelete e kamaboku</h6>
+                                </div>
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Somen</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Hayashi Somen</p>
+                                    <h6>Sopa gelada (cenoura, pepino, frango, omelete, kamaboku e shogá</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Somen</p>
+                                    <h6>Omelete, shitake e cebolinha</h6>
+                                </div>
+
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Lamen</h5></li>
+                                </ul>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Shoyu Lamen Completo</p>
+                                    <h6>frango, tikwa, moyashi, cebola, cebolinha e kamaboku</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Misso Lamen</p>
+                                    <h6>Moyashi, frango e cebolinha</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Shoyu Lamen</p>
+                                    <h6>Ovo, nori e cebolinha</h6>
                                 </div>
                             </div>
                         </div>
@@ -234,7 +393,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Hossomaki</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Hossomaki</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -252,24 +411,57 @@
                                     </ul>
                                 </div>
 
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Rolo fino cortado em 8 pedaços</h5></li>
+                                </ul>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Ebi Maki</p>
+                                    <h6>Camarão</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shitaki com Lula</p>
+                                    <p class="item-text-cardapio">Kampyo Maki</p>
+                                    <h6>Abóbora d'agua</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Mignom</p>
+                                    <p class="item-text-cardapio">Tekka Maki</p>
+                                    <h6>Atum</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Tofu</p>
+                                    <p class="item-text-cardapio">Tobiko Maki</p>
+                                    <h6>Ovas de peixe</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Peixe Branco</p>
+                                    <h6>Peixe branco crú</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Salmão Maki</p>
+                                    <h6>Salmão</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Kani Maki</p>
+                                    <h6>Carangueijo</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Kani com pepino</p>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Kappa Maki</p>
+                                    <h6>Pepino</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Oshinko Maki</p>
+                                    <h6>Conserva de nabo</h6>
                                 </div>
                             </div>
                         </div>
@@ -318,7 +510,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Urumaki</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Urumaki</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -336,24 +528,48 @@
                                     </ul>
                                 </div>
 
+                                <ul class="list-inline col-md-12" style="margin-top: 50px;">
+                                    <li class=""><h5 class="text-color-1">Arroz por fora e gergelim</h5></li>
+                                </ul>
+
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Urumaki atum com cheese</p>
+                                    <h6>Atum crú ou cozido com cream cheese</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shitaki com Lula</p>
+                                    <p class="item-text-cardapio">Urumaki Sake skin</p>
+                                    <h6>Salmão crú com skin e molho tarê</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Mignom</p>
+                                    <p class="item-text-cardapio">Urumaki salmão ou atum cozido</p>
+                                    <h6>Peixe cozido, maionese, cebolinha e pepino</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Tofu</p>
+                                    <p class="item-text-cardapio">Urumaki Atum</p>
+                                    <h6>Atum crú, cebolinha, gengibre e pepino</h6>
                                 </div>
 
                                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                                    <p class="item-text-cardapio">Shimeji com Lula</p>
+                                    <p class="item-text-cardapio">Urumaki Califórnia</p>
+                                    <h6>Kani, Maionese, fruta da época e pepino</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Urumaki Shitake ou Shimeji</p>
+                                    <h6>Kani, Maionese, fruta da época e pepino</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Urumaki Salmão</p>
+                                    <h6>Salmão Crú, cebolinha, gengibre e pepino</h6>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
+                                    <p class="item-text-cardapio">Urumaki Skin</p>
+                                    <h6>Skin Grelhado com molho tarê</h6>
                                 </div>
                             </div>
                         </div>
@@ -402,7 +618,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Temaki</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Temaki</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -486,7 +702,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Teishoku</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Teishoku</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -570,7 +786,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Nigiri</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Nigiri</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -654,7 +870,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Teppanyaki Teshoku</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Teppanyaki Teshoku</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -738,7 +954,7 @@
                                     </div>
 
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                        <h3 class="banner-menu-h3 text-center text-img-cardapio">Pratos Diversos</h3>
+                                        <h3 class="banner-menu-h3 text-center text-img-cardapio" style="color: white;">Pratos Diversos</h3>
                                     </div>
                                 </a>
                             </h4>
@@ -781,7 +997,7 @@
 
                     <div class="col-sm-12 col-xs-12 visible-xs visible-sm">
                         <ul class="list-inline">
-                            <li class=""><h4 class="text-color-1">Pratos Diversos</h4></li>
+                            <li class=""><h4 class="text-color-1" style="color: white;">Pratos Diversos</h4></li>
                         </ul>
                     </div>
 
